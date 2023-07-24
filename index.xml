@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Spooner</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Ryan Spooner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost/blog/test/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/blog/test/</guid>
+      <description>I hope this works&amp;hellip; #Droog</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost/bak.cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/bak.cv/</guid>
+      <description>Experience# CEO/President 2013-12-01 - 2014-12-01 Pied Piper — Awesome compression company Palo Alto, CA Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+Build an algorithm for artist to detect if their music was violating copy right infringement laws Successfully won Techcrunch Disrupt Optimized an algorithm that holds the current world record for Weisman Scores Education# Information Technology (Bachelor) 2011-06-01 - 2014-01-01 University of Oklahoma 4.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/cv/</guid>
+      <description>Skills# Programming ()
+C, C++, Assembly, Rust, Python, Bash, Debugging Hardware ()
+MCU, FPGA, PCB Design Communication Protocols ()
+UART, USART, SPI, I2C, BLE, LoRa Technology ()
+RTOS, Embedded Linux, DSP Projects# Designer 2024-03-14 - 2025-08-24 Disc Golf Recovery — Locate poorly thrown disc golf discs A compact and modular system using RF and GPS for triangulation Includes a simple, easy-to-use smartphone app Near zero effect on disc flight! BLE, LoRa, GPS, Mobile Applications Interests# Sports — Disc Golf, Wrestling, Snowboarding Outdoors — Horticulture, Animal Husbandry, Rainwater Harvesting Creative — Writing Novels </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost/bak.projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/bak.projects/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/projects/</guid>
+      <description>No Projects Yet# </description>
+    </item>
+    
+  </channel>
+</rss>
